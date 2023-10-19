@@ -17,3 +17,8 @@ Além dos estudos e da programação, tenho alguns hobbies que me ajudam a equil
 - **Modelagem 3D**: Além da programação, tambem gosto muito de modelagem 3D no software blender, em que tenho diversos projetos já feitos e uso como forma de me expressar artisticamente.
 
 Convido você a acessar meu portifólio e ver meus projetos, tanto de programação, quanto 3D: [Portifolio](https://thiagopininga.netlify.app)
+
+# Contatos
+* **Email:** thiagopininga@hotmail.com
+* **Telefone:** (81) 99674-4205
+* **Linkedin:** [ThiagoPininga](https://www.linkedin.com/in/thiago-pininga)
