@@ -27,6 +27,6 @@ Convido você a acessar meu portifólio e ver meus projetos, tanto de programaç
 * **Email:** thiagopininga@hotmail.com
 * **Telefone:** (81) 99674-4205
 
- <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
+ <img alt="github-snake" src="https://github.com/ThiagoPininga/ThiagoPininga/blob/output/github-contribution-grid-snake-dark.svg" />
  
 * **Linkedin:** [ThiagoPininga](https://www.linkedin.com/in/thiago-pininga)
