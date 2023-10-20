@@ -3,7 +3,7 @@
 Meu nome é Thiago Pininga Tavares, tenho 19 anos e moro na cidade do Recife, em Pernambuco. Atualmente, estou cursando Ciência da Computação na Uninassau e estou no quarto período do curso. Tenho como perpectiva, não apenas o dinheiro, mas a grandiosidade de ser impactante e criar coisas que possam ajudar o máximo de pessoas possível. Sou uma pessoa dedicada, tenho uma comunicação efetiva, gosto de trabalhar em equipe, tenho boa adaptabilidade, consigo trabalhar bem sob pressão e acho que a minha maior qualidade é a minha calma e racionalidade.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api?username=thiagopininga&theme=dracula&count_private=true&include_all_commits=true&show_icons=true">
+  <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api?username=thiagopininga&theme=dracula&show_icons=true">
   <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopininga&theme=dracula&layout=compact&langs_count=16">
 </div>
  
